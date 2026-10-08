@@ -1,1 +1,7 @@
-{  "blacklist": [    "HG-7834-4DB6-23D2-288C",    "HG-BE6D-0B93-57F0-1DA6",     "HG-AFD4-331C-126C-BC87"  ]}
+{
+  "blacklist": [
+    "HG-7834-4DB6-23D2-288C",
+    "HG-BE6D-0B93-57F0-1DA6",
+    "HG-AFD4-331C-126C-BC87"
+  ]
+}
